@@ -1,16 +1,12 @@
-# NAME: Emby
+# NAME: emby
 # AUTHOR: sharkbeee
 # REPO: https://github.com/sharkbeee/Rule
-# UPDATED: 2025-03-22 23:08:40
+# UPDATED: 2025-03-24 09:25:40
 payload:
   # 西瓜
   - DOMAIN-SUFFIX,daigua.j8.work
   # Zox
   - DOMAIN-SUFFIX,entry.zox.show
-  # 纸片人
-  - DOMAIN-SUFFIX,embyplus.org
-  # Polo
-  - DOMAIN-SUFFIX,fun.poloemby.xyz
   # 极光
   - DOMAIN-SUFFIX,ad.auroramedia.vip
   # 鹅
