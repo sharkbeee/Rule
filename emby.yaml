@@ -4,20 +4,20 @@
 # UPDATED: 2025-03-24 09:25:40
 payload:
   # 西瓜
-  - DOMAIN-SUFFIX,daigua.j8.work
-  - DOMAIN-SUFFIX,1024.name
+  - DOMAIN-SUFFIX,chilledmelon.com
   # Zox
   - DOMAIN-SUFFIX,entry.zox.show
   # 极光
   - DOMAIN-SUFFIX,ad.auroramedia.vip
-  # 鹅
-  - DOMAIN-SUFFIX,cavps.eu.org
+  # 入机
+  - DOMAIN-SUFFIX,rjemby.com
+  - DOMAIN-SUFFIX,hkdg.998903.xyz
   # 红尘
   - DOMAIN-SUFFIX,rd.happyav.eu.org
   # Youno
   - DOMAIN-SUFFIX,emby.younoyes.com
-  # 比比（IP匹配）
-  - IP-CIDR,167.235.118.41/32
+  # Cork
+  - DOMAIN-SUFFIX,1024.media
 
   - DOMAIN,emby.enjoyit.eu.org
   - DOMAIN,emby.lcloud.wiki
