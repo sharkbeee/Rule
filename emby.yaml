@@ -12,6 +12,7 @@ payload:
   # 入机
   - DOMAIN-SUFFIX,rjemby.com
   - DOMAIN-SUFFIX,hkdg.998903.xyz
+  - DOMAIN-SUFFIX,rjf37.com
   # 红尘
   - DOMAIN-SUFFIX,rd.happyav.eu.org
   # Youno
