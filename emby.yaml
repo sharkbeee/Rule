@@ -1,22 +1,25 @@
 # NAME: emby
 # AUTHOR: sharkbeee
 # REPO: https://github.com/sharkbeee/Rule
-# UPDATED: 2025-03-24 09:25:40
+
 payload:
   # 西瓜
   - DOMAIN-SUFFIX,chilledmelon.com
   # Zox
-  - DOMAIN-SUFFIX,entry.zox.show
-  # 极光
-  - DOMAIN-SUFFIX,ad.auroramedia.vip
+  - DOMAIN-SUFFIX,zox.show
+  # ZoxFree
+  - DOMAIN-SUFFIX,3767483.xyz
+  # nangua
+  - DOMAIN-SUFFIX,nangua.de
+  # MSKY
+  - DOMAIN-SUFFIX,5msky.com
   # 入机
-  - DOMAIN-SUFFIX,rjemby.com
-  - DOMAIN-SUFFIX,hkdg.998903.xyz
+  - DOMAIN-SUFFIX,xytx.org
   - DOMAIN-SUFFIX,rjf37.com
-  # 红尘
-  - DOMAIN-SUFFIX,rd.happyav.eu.org
+  # STAR
+  - DOMAIN-SUFFIX,staryuki.me
   # Youno
-  - DOMAIN-SUFFIX,emby.younoyes.com
+  - DOMAIN-SUFFIX,younoyes.com
   # Cork
   - DOMAIN-SUFFIX,1024.media
 
