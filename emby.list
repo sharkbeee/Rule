@@ -1,0 +1,76 @@
+# NAME: emby
+# AUTHOR: sharkbeee
+# REPO: https://github.com/sharkbeee/Rule
+
+# 西瓜
+HOST-SUFFIX,chilledmelon.com,emby
+# Zox
+HOST-SUFFIX,zox.show,emby
+# ZoxFree
+HOST-SUFFIX,3767483.xyz,emby
+# nangua
+HOST-SUFFIX,nangua.de,emby
+# MSKY
+HOST-SUFFIX,5msky.com,emby
+# 入机
+HOST-SUFFIX,xytx.org,emby
+HOST-SUFFIX,rjf37.com,emby
+# STAR
+HOST-SUFFIX,staryuki.me,emby
+# Youno
+HOST-SUFFIX,younoyes.com,emby
+# Cork
+HOST-SUFFIX,1024.media,emby
+
+HOST,emby.enjoyit.eu.org,emby
+HOST,emby.lcloud.wiki,emby
+HOST,notnetflix.cos.cat,emby
+HOST-SUFFIX,123456.al,emby
+HOST-SUFFIX,285286.xyz,emby
+HOST-SUFFIX,agahk1.jmsooo.com,emby
+HOST-SUFFIX,agajp1.jmsooo.com,emby
+HOST-SUFFIX,agasg1.jmsooo.com,emby
+HOST-SUFFIX,aws.jmsooo.com,emby
+HOST-SUFFIX,cf1.jmsooo.com,emby
+HOST-SUFFIX,cristiamo.xyz,emby
+HOST-SUFFIX,emby.cjpc.cc,emby
+HOST-SUFFIX,emby.cjpc.tv,emby
+HOST-SUFFIX,emby.cjpc.xyz,emby
+HOST-SUFFIX,emby.cristiamo.top,emby
+HOST-SUFFIX,emby.flowercloud.yt,emby
+HOST-SUFFIX,emby.immtel.com,emby
+HOST-SUFFIX,emby.maying.club,emby
+HOST-SUFFIX,emby.mcwy.me,emby
+HOST-SUFFIX,emby.mdss.cloud,emby
+HOST-SUFFIX,emby.neko.edu.rs,emby
+HOST-SUFFIX,emby.nexitally.com,emby
+HOST-SUFFIX,emby.nyancat.net,emby
+HOST-SUFFIX,emby.ok.edu.hk,emby
+HOST-SUFFIX,emby.paoche.ooo,emby
+HOST-SUFFIX,emby.prprcloud.com,emby
+HOST-SUFFIX,emby.wtf,emby
+HOST-SUFFIX,emby.xeton.dev,emby
+HOST-SUFFIX,emby.ytoo.li,emby
+HOST-SUFFIX,embymv.tk,emby
+HOST-SUFFIX,embyplus.org,emby
+HOST-SUFFIX,embyserver.ga,emby
+HOST-SUFFIX,hinet.jmsooo.com,emby
+HOST-SUFFIX,imetyou.top,emby
+HOST-SUFFIX,jellyfin.asia,emby
+HOST-SUFFIX,jellyfin.xeton.dev,emby
+HOST-SUFFIX,line.emby.men,emby
+HOST-SUFFIX,mickeycloud.com,emby
+HOST-SUFFIX,movie.xeton.dev,emby
+HOST-SUFFIX,ntt1.jmsooo.com,emby
+HOST-SUFFIX,ohhhh.org,emby
+HOST-SUFFIX,peachmv.me,emby
+HOST-SUFFIX,pilipiliultra.com,emby
+HOST-SUFFIX,plusmedia.site,emby
+HOST-SUFFIX,poloemby.xyz,emby
+HOST-SUFFIX,pornemby.club,emby
+HOST-SUFFIX,servers.xeton.dev,emby
+HOST-SUFFIX,xmsl.org,emby
+HOST-KEYWORD,emby.wtf,emby
+HOST-KEYWORD,jmsooo,emby
+HOST-KEYWORD,odysseyplus,emby
+PROCESS-NAME,com.mb.android,emby
