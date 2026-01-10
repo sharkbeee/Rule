@@ -3,25 +3,36 @@
 # REPO: https://github.com/sharkbeee/Rule
 
 payload:
-  # 西瓜
-  - DOMAIN-SUFFIX,chilledmelon.com
-  # Zox
-  - DOMAIN-SUFFIX,zox.show
-  # ZoxFree
-  - DOMAIN-SUFFIX,3767483.xyz
+  # ntrrr
+  - DOMAIN-SUFFIX,ntrrr.top
   # nangua
   - DOMAIN-SUFFIX,nangua.de
-  # MSKY
-  - DOMAIN-SUFFIX,5msky.com
-  # 入机
-  - DOMAIN-SUFFIX,xytx.org
-  - DOMAIN-SUFFIX,rjf37.com
-  # STAR
-  - DOMAIN-SUFFIX,staryuki.me
   # Youno
   - DOMAIN-SUFFIX,younoyes.com
-  # Cork
-  - DOMAIN-SUFFIX,1024.media
+  # SNTP
+  - DOMAIN-SUFFIX,cn2gias.uk
+  # fy
+  - DOMAIN-SUFFIX,sfcj.org
+  # yezi
+  - DOMAIN-SUFFIX,yezi.my
+  # peach
+  - DOMAIN-SUFFIX,embymv.link
+  # hello
+  - DOMAIN-SUFFIX,istyboe.top
+  # 結束バンド
+  - DOMAIN-SUFFIX,biliblili.uk
+  # FWorks
+  - DOMAIN-SUFFIX,webn.cc
+  # HKA
+  - DOMAIN-SUFFIX,aliz.work
+  # Nayovo
+  - DOMAIN-SUFFIX,007.us.kg
+  # 游骑兵
+  - DOMAIN-SUFFIX,heisi.org
+  # hualu
+  - DOMAIN-SUFFIX,zhyu.de
+  # Cookie
+  - DOMAIN-SUFFIX,info.us.kg
 
   - DOMAIN,emby.enjoyit.eu.org
   - DOMAIN,emby.lcloud.wiki
@@ -71,7 +82,5 @@ payload:
   - DOMAIN-SUFFIX,pornemby.club
   - DOMAIN-SUFFIX,servers.xeton.dev
   - DOMAIN-SUFFIX,xmsl.org
-  - DOMAIN-KEYWORD,emby.wtf
   - DOMAIN-KEYWORD,jmsooo
   - DOMAIN-KEYWORD,odysseyplus
-  - PROCESS-NAME,com.mb.android

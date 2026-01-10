@@ -2,25 +2,36 @@
 # AUTHOR: sharkbeee
 # REPO: https://github.com/sharkbeee/Rule
 
-# 西瓜
-HOST-SUFFIX,chilledmelon.com,emby
-# Zox
-HOST-SUFFIX,zox.show,emby
-# ZoxFree
-HOST-SUFFIX,3767483.xyz,emby
+# ntrrr
+HOST-SUFFIX,ntrrr.top,emby
 # nangua
 HOST-SUFFIX,nangua.de,emby
-# MSKY
-HOST-SUFFIX,5msky.com,emby
-# 入机
-HOST-SUFFIX,xytx.org,emby
-HOST-SUFFIX,rjf37.com,emby
-# STAR
-HOST-SUFFIX,staryuki.me,emby
 # Youno
 HOST-SUFFIX,younoyes.com,emby
-# Cork
-HOST-SUFFIX,1024.media,emby
+# SNTP
+HOST-SUFFIX,cn2gias.uk,emby
+# fy
+HOST-SUFFIX,sfcj.org,emby
+# yezi
+HOST-SUFFIX,yezi.my,emby
+# peach
+HOST-SUFFIX,embymv.link,emby
+# hello
+HOST-SUFFIX,istyboe.top,emby
+# 結束バンド
+HOST-SUFFIX,biliblili.uk,emby
+# FWorks
+HOST-SUFFIX,webn.cc,emby
+# HKA
+HOST-SUFFIX,aliz.work,emby
+# Nayovo
+HOST-SUFFIX,007.us.kg,emby
+# 游骑兵
+HOST-SUFFIX,heisi.org,emby
+# hualu
+HOST-SUFFIX,zhyu.de,emby
+# Cookie
+HOST-SUFFIX,info.us.kg,emby
 
 HOST,emby.enjoyit.eu.org,emby
 HOST,emby.lcloud.wiki,emby
@@ -70,6 +81,5 @@ HOST-SUFFIX,poloemby.xyz,emby
 HOST-SUFFIX,pornemby.club,emby
 HOST-SUFFIX,servers.xeton.dev,emby
 HOST-SUFFIX,xmsl.org,emby
-HOST-KEYWORD,emby.wtf,emby
 HOST-KEYWORD,jmsooo,emby
 HOST-KEYWORD,odysseyplus,emby
