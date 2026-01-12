@@ -32,7 +32,7 @@ payload:
   # hualu
   - DOMAIN-SUFFIX,zhyu.de
   # Cookie
-  - DOMAIN-SUFFIX,info.us.kg
+  - DOMAIN-SUFFIX,nas.edu.kg
 
   - DOMAIN,emby.enjoyit.eu.org
   - DOMAIN,emby.lcloud.wiki
